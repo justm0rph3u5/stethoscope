@@ -20,7 +20,7 @@
     "react-router": "^3.0.0",
     "react-router-dom": "^4.1.2",
     "timeago.js": "^2.0.4",
-    "titlecase": "^1.1.2"
+    "titlecase": "^1.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
