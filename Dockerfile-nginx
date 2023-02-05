@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.23
 
 COPY nginx-docker.conf /etc/nginx/nginx.conf
 RUN mkdir -p /logs
